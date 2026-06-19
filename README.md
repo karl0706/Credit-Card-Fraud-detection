@@ -51,3 +51,6 @@ Instead of trying to draw a simplistic straight line through the data, the Rando
 
 * `Credit Card Fraud Detection.ipynb`: The complete Jupyter notebook containing data preprocessing, model training, evaluation metrics, and feature importance analysis.
 * `README.md`: Project summary and business context.
+  
+  Dataset Source
+The dataset used in this project is the **Credit Card Fraud Detection** dataset provided by ULB on Kaggle. You can download it directly from [Kaggle](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud) and place the `creditcard.csv` file at the root of the project directory.
