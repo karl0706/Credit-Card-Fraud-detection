@@ -47,14 +47,6 @@ Instead of trying to draw a simplistic straight line through the data, the Rando
 
 ---
 
-## 🚀 Next Steps to Push Performance Further
-
-To capture the remaining percentage of undetected fraud, the project outlines two future technical paths:
-1. **Threshold Optimization:** Lowering the classification probability cursor (below 50%) to catch more subtle fraud patterns based on business risk appetite.
-2. **Gradient Boosting:** Transitioning to sequential tree frameworks like **XGBoost** or **LightGBM** to let new trees iteratively learn from previous errors.
-
----
-
 ## 📂 Project Structure
 
 * `Credit Card Fraud Detection.ipynb`: The complete Jupyter notebook containing data preprocessing, model training, evaluation metrics, and feature importance analysis.
